@@ -1,5 +1,3 @@
-Coletando informações do workspaceAqui está um exemplo de README para o seu projeto:
-
 ```markdown
 # ToDo App
 
