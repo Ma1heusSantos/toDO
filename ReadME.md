@@ -66,16 +66,6 @@ Este é um aplicativo de lista de tarefas simples desenvolvido com React Native 
    ```
 6. Use o aplicativo no emulador ou em um dispositivo físico com o aplicativo Expo Go.
 
-## 🖼️ Capturas de Tela
-
-### Tela Inicial
-
-![Tela Inicial](assets/images/splash-icon.png)
-
-### Adicionando Tarefas
-
-![Adicionando Tarefas](assets/images/example-task.png)
-
 ## 📄 Licença
 
 Este projeto está sob a licença MIT. Consulte o arquivo `LICENSE` para mais detalhes.
